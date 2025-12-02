@@ -5,8 +5,8 @@ I am a Software Developer Student passionate about Cloud Computing and Cybersecu
 ---
 
 ### 🏆 Certifications
-<a href="PASTE_YOUR_CREDLY_LINK_HERE" target="_blank">
-  <img src="https://www.credly.com/badges/e4399acf-73be-4739-8ffa-d2b5917dbc11/public_url"/>
+<a href="https://www.credly.com/badges/e4399acf-73be-4739-8ffa-d2b5917dbc11/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="150" alt="AWS Certified Cloud Practitioner"/>
 </a>
 
 ---
