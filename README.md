@@ -9,6 +9,10 @@ I am a Software Developer Student passionate about Cloud Computing and Cybersecu
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="150" alt="AWS Certified Cloud Practitioner"/>
 </a>
 
+<a href="https://www.credly.com/badges/b1e83fff-c350-41a6-9081-ce06eaa34b50/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="150" alt="IBM SkillsBuild Cybersecurity Certificate"/>
+</a>
+
 ---
 
 ### 🛠️ Tech Stack
