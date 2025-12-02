@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Sanaet! 👋
 
-<!--
-**Sanaet-glitch/Sanaet-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Developer Student passionate about Cloud Computing and Cybersecurity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Certifications
+<a href="PASTE_YOUR_CREDLY_LINK_HERE" target="_blank">
+  <img src="https://www.credly.com/badges/e4399acf-73be-4739-8ffa-d2b5917dbc11/public_url"/>
+</a>
+
+---
+
+### 🛠️ Tech Stack
+* **Languages:** Python 🐍, Bash 💻
+* **Cloud:** AWS (Certified Cloud Practitioner) ☁️
+* **Security:** Linux (Kali), Network Security 🛡️
