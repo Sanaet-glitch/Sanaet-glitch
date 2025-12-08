@@ -17,6 +17,12 @@ I am a Software Developer Student passionate about Cloud Computing and Cybersecu
       height="150" 
       alt="AWS Certified Cloud Practitioner"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/156e4ef2-6dc2-4571-b168-64be638f54e9/public_url" target="_blank">
+  <img src="https://images.credly.com/size/220x220/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png"
+      height="150" 
+      alt="AWS re/Start Graduate"/>
+</a>
 
 ---
 
